@@ -8,6 +8,7 @@
     "url": "git://github.com/jshawl/jekyll-gulp.git"
   },
   "devDependencies": {
-    "gulp": "~3.4.0"
+    "gulp": "~3.4.0",
+    "connect": "~2.12.0"
   }
 }
