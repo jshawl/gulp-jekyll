@@ -1,0 +1,13 @@
+{
+  "name": "jekyll gulp",
+  "version": "0.0.1",
+  "description": "A development environment for jekyll and gulp",
+  "author": "Jesse Shawl http://jesse.sh/awl/",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jshawl/jekyll-gulp.git"
+  },
+  "devDependencies": {
+    "gulp": "~3.4.0"
+  }
+}
